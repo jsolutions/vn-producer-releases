@@ -36,6 +36,16 @@ Then choose **New from sample** on the start screen and press **▶ Export & Pla
 
 The full guide is in [USER-GUIDE.md](USER-GUIDE.md), and it's also built into the app (the **Help** button).
 
+## Reporting problems
+
+Found a bug, or something confusing? [Open an issue](../../issues/new) and include:
+- what you did
+- what you expected
+- what happened instead
+- a screenshot if you can
+
+For problems inside the game (EDuke32 or GZDoom), say which engine you used.
+
 ## A note on selling games
 
 Games made for **EDuke32** run on the Build engine, which can't be used commercially without a licence from its author. If you want to sell a game, export it to **GZDoom**, which is open source. VN Producer keeps your story independent of the engine, so you can switch at any time.
